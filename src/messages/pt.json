@@ -1,0 +1,49 @@
+{
+  "HomePage": {
+    "title": "Olá mundo",
+    "about": "Ir para a página sobre"
+  },
+  "NavProfile": {
+    "pro": "Aprimorar pro",
+    "profile": "Perfil",
+    "billing": "Faturamento",
+    "notifications": "Notificações",
+    "logout": "Sair"
+  },
+  "ToggleTheme": {
+    "dark": "Escuro",
+    "light": "Claro",
+    "system": "Sistema"
+  },
+  "LoginButton": {
+    "signIn": "Entrar"
+  },
+  "ToggleLanguage": {
+    "en": "Inglês",
+    "pt-br": "Português"
+  },
+  "Profile": {
+    "settings": "Configurações",
+    "title": "Perfil",
+    "description": "Gerencie as configurações da sua conta",
+    "save": "Salvar alterações",
+    "update": {
+      "success": {
+        "title": "Perfil atualizado",
+        "description": "Suas informações de perfil foram atualizadas com sucesso."
+      },
+      "error": {
+        "title": "Erro ao atualizar o perfil",
+        "description": "Ocorreu um erro ao atualizar suas informações de perfil. Por favor, tente novamente."
+      }
+    }
+  },
+
+  "Timezone": {
+    "title": "Fuso horário",
+    "select": "Selecione o fuso horário",
+    "search": "Pesquisar fuso horário",
+    "not-found": "Nenhum fuso horário encontrado para sua pesquisa.",
+    "description": "Escolha o fuso horário que deseja usar."
+  }
+}

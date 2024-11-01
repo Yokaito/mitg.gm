@@ -1,0 +1,48 @@
+{
+  "HomePage": {
+    "title": "Hello world",
+    "about": "Go to the about page"
+  },
+  "NavProfile": {
+    "pro": "Upgrade to pro",
+    "profile": "Profile",
+    "billing": "Billing",
+    "notifications": "Notifications",
+    "logout": "Logout"
+  },
+  "ToggleTheme": {
+    "dark": "Dark",
+    "light": "Light",
+    "system": "System"
+  },
+  "LoginButton": {
+    "signIn": "Sign in"
+  },
+  "ToggleLanguage": {
+    "en": "English",
+    "pt-br": "Portuguese"
+  },
+  "Profile": {
+    "settings": "Settings",
+    "title": "Profile",
+    "description": "Manage your profile settings",
+    "save": "Save changes",
+    "update": {
+      "success": {
+        "title": "Profile updated",
+        "description": "Your profile information has been updated successfully."
+      },
+      "error": {
+        "title": "Error updating profile",
+        "description": "An error occurred while updating your profile information. Please try again."
+      }
+    }
+  },
+  "Timezone": {
+    "title": "Timezone",
+    "select": "Select timezone",
+    "search": "Search timezone",
+    "not-found": "No timezones found for your search.",
+    "description": "Choose the timezone you want to use."
+  }
+}
